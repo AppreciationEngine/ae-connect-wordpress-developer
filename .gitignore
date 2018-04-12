@@ -1,0 +1,12 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+sftp-config.json
+/nbproject/private/
+nbproject
+.remote-sync.json
+bin
+phpcs.xml.dist
+phpunit.xml.dist
+.travis.yml
+tests/bootstrap.php
+/js-tests/node_modules
+/js-tests/test/*.js
